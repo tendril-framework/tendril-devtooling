@@ -19,7 +19,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 """
-Docstring for profiler.py
+Decorators for Code Profiling Instrumentation
+=============================================
 """
 
 import os
